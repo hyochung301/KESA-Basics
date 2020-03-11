@@ -1,0 +1,46 @@
+html{
+  Margin:50px;
+
+  font-family: 'Josefin Sans';
+}
+
+table, td {
+  text-align:center;
+  border:1px solid black;
+  border-collapse: collapse;
+}
+td{padding:10px}
+.course1{
+  background-color:#F995E3;
+
+}
+.course2{
+  background-color:red;
+
+}
+.course3{
+  background-color: orange;
+
+}
+
+.course4{
+  background-color: purple;
+}
+
+.course5{
+  background-color: skyblue;
+}
+
+#Loc{
+  color: red;
+  padding: 10px;
+  font-size: 20px;
+}
+#Prof{
+  color: blue;
+  padding: 10px;
+  font-size: 20px;
+}
+/* table,td {
+  border: 1px solid black;
+} */
